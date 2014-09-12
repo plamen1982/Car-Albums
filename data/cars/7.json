@@ -1,0 +1,56 @@
+
+{
+    "id":7,
+    "nameBrand":"Bentley",
+    "country":"England",
+    "image":"/img/brands/Bentley.jpg",
+    "imageCountry":"/img/brands/England.jpg",
+
+    "models":
+        [{
+            "brandId":7,
+            "id":1,
+            "nameModel":"Continental",
+            "imageCar":"/img/hereIn2014/Bentley_2014_E.jpg",
+            "imageInside":"/img/hereIn2014/Bentley_2014_I.jpg",
+            "imageOutside":"/img/hereIn2014/Bentley_2014_E.jpg",
+            "yearModel":2014,
+            "priceModel":189776,
+            "sellsModel":1234,
+            "statusModel":1,
+            "descriptionModel":"Bentley Motors Limited (/ˈbɛntli/) is a British luxury automaker, and a wholly owned subsidiary of the German Volkswagen AG.[11] Its principal activity is the design, engineering, manufacture and distribution of luxury automobiles sold under the Bentley marque. Based in Crewe, England, Bentley Motors Limited was founded by W. O. Bentley on 18 January 1919 in Cricklewood near London and was acquired by Rolls-Royce in 1931.",
+            "reviewsBrand":[
+                "this car is great. I have nver driven a big car, with sports car acceleration, and a top speed of this beautiful car. ",
+                "for the money i spent on this car, i would have rather went with a 1998 used camry. I've spent over 100,000.00 on repairs for this piece of garbage.",
+                "this car is totally worth the money i paid for it... its so comfortable but at the same time when you put your foot down you dissappear"
+            ],
+            "ratingsBrand":[
+                4,
+                5,
+                4
+            ]
+        },{
+
+                "brandId":7,
+                "id":2,
+                "imageCar":"/img/backIn1998/Bentley_1998_E.jpg",
+                "imageInside":"/img/backIn1998/Bentley_1998_I.jpg",
+                "imageOutside":"/img/backIn1998/Bentley_1998_E.jpg",
+                "yearModel":1998,
+                "priceModel":189776,
+                "sellsModel":1234,
+                "statusModel":1,
+                "descriptionModel":"Bentley Motors Limited (/ˈbɛntli/) is a British luxury automaker, and a wholly owned subsidiary of the German Volkswagen AG.[11] Its principal activity is the design, engineering, manufacture and distribution of luxury automobiles sold under the Bentley marque. Based in Crewe, England, Bentley Motors Limited was founded by W. O. Bentley on 18 January 1919 in Cricklewood near London and was acquired by Rolls-Royce in 1931.",
+                "reviewsBrand":[
+                    "this car is great. I have nver driven a big car, with sports car acceleration, and a top speed of this beautiful car. ",
+                    "for the money i spent on this car, i would have rather went with a 1998 used camry. I've spent over 100,000.00 on repairs for this piece of garbage.",
+                    "this car is totally worth the money i paid for it... its so comfortable but at the same time when you put your foot down you dissappear"
+                ],
+                "ratingsBrand":[
+                    4,
+                    5,
+                    4
+                ]
+            }]
+
+}

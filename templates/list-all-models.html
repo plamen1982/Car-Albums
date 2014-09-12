@@ -1,0 +1,14 @@
+<input type="text" ng-model="search" placeholder="search..." class="pull-right"/>
+<img ng-src="{{}}">
+<div class="jumbotron" ng-controller="ListAllModelsController">
+    <div ng-repeat="model in models | filter : search" >
+         <div class="col-sm-3 text-center image-brand-container">
+                <a  href="#/brand/{{ model.brandId }}/model/{{ model.id }}"><h2 class="text-center">{{ model.nameModel }}</h2></a>
+                <a  href="#/brand/{{ model.brandId }}/model/{{ model.id }}">
+                    <figure><img class="img-rounded" ng-src="{{ model.imageCar }}" src="" alt="{{ model.nameModel }}"/></figure>
+                </a>
+
+         </div>
+
+    </div>
+</div>

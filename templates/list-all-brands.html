@@ -1,0 +1,27 @@
+<input type="text" ng-model="search" placeholder="search..." class="pull-right"/>
+<div class="jumbotron" ng-controller="ListAllBrandsController">
+
+   <!--
+    <div ng-repeat="imageCountryFlag in imageCountryFlags track by $index" class="col-md-4">
+        <div >
+                <img ng-src="{{imageCountryFlag.image}}">
+                 <input type="checkbox"  ng-model="imageCountryFlag.country"
+                   ng-true-value="{{ imageCountryFlag.country }}" ng-false-value="">
+            {{ imageCountryFlag.country }}
+        </div>
+    </div>
+-->
+     <div ng-repeat="row in brands.range()" class="row">
+
+        <div ng-repeat="brand in brands.slice(row, row + 4) | filter : search | filter : imageCountryFlag.image" class="col-md-3 text-center">
+
+            <h3><a href="#/models/{{brand.id}}">{{brand.nameBrand}}</a></h3>
+            <div class="image-container">
+                <a href="#/models/{{brand.id}}">
+                    <img src="" ng-src="{{brand.image}}" />
+                </a>
+            </div>
+        </div>
+    </div>
+
+</div>

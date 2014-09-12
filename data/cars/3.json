@@ -1,0 +1,58 @@
+
+{
+    "id":3,
+    "nameBrand":"Cadillac",
+    "country":"USA",
+    "image":"/img/brands/Cadillac.jpg",
+    "imageCountry":"/img/brands/USA.jpg",
+
+    "models":
+        [{
+            "brandId":3,
+            "id":1,
+            "nameModel":"CTS-V",
+            "imageCar":"/img/hereIn2014/Cadillac_2014_E.jpg",
+            "imageInside":"/img/hereIn2014/Cadillac_2014_I.jpg",
+            "imageOutside":"/img/hereIn2014/Cadillac_2014_E.jpg",
+            "yearModel":2014,
+            "priceModel":63600,
+            "sellsModel":1234,
+            "statusModel":1,
+            "descriptionModel":" Cadillac Motor Car Division, is a division of U.S.-based General Motors Company (GM) that markets luxury vehicles worldwide. Cadillac's primary markets are the United States, Canada, and China, but Cadillac-branded vehicles are distributed in 34 additional markets worldwide.[2] In 2012, Cadillac's U.S. sales were 149,782 vehicles.Cadillac is currently the second oldest American automobile brand following fellow GM marque Buick and is among the oldest automobile brands in the world. Cadillac was founded from the Henry Ford Company in 1902 by Henry Leland,[4] a master mechanic and entrepreneur, who named the company after Antoine Laumet de La Mothe, sieur de Cadillac, who founded Detroit, Michigan. The Cadillac crest is based on his coat of arms.",
+            "reviewsBrand":[
+                "2014 cadillac CTS premium coupe from Bud Davis cadillac in memphis tenn. this is my 6th cadillac and 2nd CTS ive owned. this 2014 has so many features and handles so well. a big thank you to Cadillac! ",
+                "This is the first non-truck American vehicle I've owned in many years. I have to say that it's almost unbelievable that GM created such a car (CTS-V Wagon) but I'm so happy they did. My other car is a Miata and this car is as much fun to drive as it is and definitely a much better long-distance cruiser.",
+                "Pinkerton GMC, Lynchburg, Va.is the most accommodating dealer we have ever bought from. Our salesperson was Melvin Harvey - Perfect Transaction! I highly recommend the CTS and Pinkerton."
+            ],
+            "ratingsBrand":[
+                4,
+                5,
+                4
+            ]
+        },
+            {
+                "brandId":3,
+                "id":2,
+                "nameModel":"CTS-V",
+                "imageCar":"/img/backIn1998/Cadillac_1998_E.jpg",
+                "imageInside":"/img/backIn1998/Cadillac_1998_I.jpg",
+                "imageOutside":"/img/backIn1998/Cadillac_1998_E.jpg",
+                "yearModel":1998,
+                "priceModel":63600,
+                "sellsModel":1234,
+                "statusModel":1,
+                "descriptionModel":" Cadillac Motor Car Division, is a division of U.S.-based General Motors Company (GM) that markets luxury vehicles worldwide. Cadillac's primary markets are the United States, Canada, and China, but Cadillac-branded vehicles are distributed in 34 additional markets worldwide.[2] In 2012, Cadillac's U.S. sales were 149,782 vehicles.Cadillac is currently the second oldest American automobile brand following fellow GM marque Buick and is among the oldest automobile brands in the world. Cadillac was founded from the Henry Ford Company in 1902 by Henry Leland,[4] a master mechanic and entrepreneur, who named the company after Antoine Laumet de La Mothe, sieur de Cadillac, who founded Detroit, Michigan. The Cadillac crest is based on his coat of arms.",
+                "reviewsBrand":[
+                    "2014 cadillac CTS premium coupe from Bud Davis cadillac in memphis tenn. this is my 6th cadillac and 2nd CTS ive owned. this 2014 has so many features and handles so well. a big thank you to Cadillac! ",
+                    "This is the first non-truck American vehicle I've owned in many years. I have to say that it's almost unbelievable that GM created such a car (CTS-V Wagon) but I'm so happy they did. My other car is a Miata and this car is as much fun to drive as it is and definitely a much better long-distance cruiser.",
+                    "Pinkerton GMC, Lynchburg, Va.is the most accommodating dealer we have ever bought from. Our salesperson was Melvin Harvey - Perfect Transaction! I highly recommend the CTS and Pinkerton."
+                ],
+                "ratingsBrand":[
+                    4,
+                    5,
+                    4
+                ]
+            }
+        ]
+
+}

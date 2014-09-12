@@ -1,0 +1,35 @@
+<form ng-hide="isHideReview" class="form-horizontal tab-content-custom" name="newReview">
+    <fieldset>
+
+        <legend>Email</legend>
+        <div class="form-group">
+            <label for="inputEmail" class="col-sm-2 control-label">Email</label>
+
+            <div class="col-lg-9">
+                <input ng-model="newReview.email" required="required" type="email" class="form-control form-validation" id="inputEmail" placeholder="Email">
+            </div>
+        </div>
+
+        <label for="textArea" class="col-lg-2 control-label">Review</label>
+        <div class="col-lg-10">
+            <textarea ng-model="newReview.review" required="required" class="form-control form-validation" rows="2"
+                      id="textArea">
+            </textarea>
+            <span class="help-block"> Please, filled the both text field above, email needs to be valid email </span>
+        </div>
+
+        <label for="inputRate" class="col-lg-2 control-label">Rate</label>
+        <div class="col-lg-9">
+            <input ng-model="newReview.rate" required="required" type="number" min="0" max="5" class="form-control form-validation" id="inputRate" placeholder="1 &divide 5"/>
+        </div>
+
+        <div class="form-group">
+            <div class="col-lg-10 col-lg-offset-2">
+                <button ng-click="addReview(newReview)" ng-disabled="newReview.$invalid" type="submit"
+                        class="btn btn-primary">Submit
+                </button>
+            </div>
+        </div>
+
+    </fieldset>
+</form>

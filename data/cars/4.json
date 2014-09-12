@@ -1,0 +1,57 @@
+
+{
+    "id":4,
+    "nameBrand":"Dodge",
+    "country":"USA",
+    "image":"/img/brands/Dodge.jpg",
+    "imageCountry":"/img/brands/USA.jpg",
+
+    "models":[
+        {   "brandId":4,
+            "id":1,
+            "nameModel":"Charger",
+            "imageCar":"/img/hereIn2014/Dodge_2014_E.jpg",
+            "imageInside":"/img/hereIn2014/Dodge_2014_I.jpg",
+            "imageOutside":"/img/hereIn2014/Dodge_2014_E.jpg",
+            "yearModel":2014,
+            "priceModel":46385,
+            "sellsModel":1234,
+            "statusModel":1,
+            "descriptionModel":"After the founding of the Dodge Brothers Company by Horace and John Dodge in 1900, the Detroit-based company quickly found work producing precision engine and chassis components for the city’s burgeoning number of automobile firms. Chief among these customers were the established Olds Motor Vehicle Company and the then-new Ford Motor Company. Dodge, formally the Dodge Division of Chrysler Corporation, is an American brand of automobiles, minivans, and sport utility vehicles manufactured by Chrysler Group LLC, based in Auburn Hills, Michigan. Dodge vehicles presently include the lower-priced badge variants of Chrysler-badged vehicles as well as performance cars, though for much of its existence Dodge was Chrysler's mid-priced brand above Plymouth.Founded as the Dodge Brothers Company by brothers Horace Elgin Dodge and John Francis Dodge in 1900, Dodge was originally a supplier of parts and assemblies for Detroit-based automakers and began building complete automobiles in 1915, predating the founding of Chrysler Corporation. The Dodge brothers died suddenly in 1920 and the company was sold to Dillon, Read & Co. in 1925 before being sold to Chrysler in 1928. Dodge vehicles mainly consisted of trucks and full-sized passenger cars through the 1970s, though it did make some inroads into the compact car market during this time. The 1973 oil crisis and its subsequent impact on the American automobile industry led Chrysler to develop the K platform of compact to midsize cars for the 1981 model year. The K platform and its derivatives are credited with reviving Chrysler's business in the 1980s; one such derivative became the Dodge Caravan.",
+            "reviewsBrand":[
+                "The 2014 Charger is a great car. I drove the v6 version first as a rental for about 2000 miles. It got great gas mileage and the v6 was more than enough power. ",
+                "I bought a 2014 R/T Charger with the blacktop package and I LOVE it! Cruising down a road at 50mph my car gets 32.4mpg since it goes into \"eco mode\" and shuts off 4 of the cylinders. ",
+                "If you are tall this is the car to have. It is supposed to be the best car for tall people. Very spacious. The one caution is do not get a sunroof in it. It takes the ceiling down about 4 or 5 inches and my hair actually touches the ceiling. Other than that a tremendous car."
+            ],
+            "ratingsBrand":[
+                4,
+                5,
+                4
+            ]
+        },
+            {
+                "brandId":4,
+                "id":2,
+                "nameModel":"Neon",
+                "imageCar":"http://upload.wikimedia.org/wikipedia/commons/d/d6/Chrysler_Neon_2001_by_a_Norwegian_fjord.JPG",
+                "imageInside":"/img/backIn1998/Dodge_1998_I.jpg",
+                "imageOutside":"http://upload.wikimedia.org/wikipedia/commons/d/d6/Chrysler_Neon_2001_by_a_Norwegian_fjord.JPG",
+                "yearModel":1998,
+                "priceModel":46385,
+                "sellsModel":1234,
+                "statusModel":1,
+                "descriptionModel":"Dodge, formally the Dodge Division of Chrysler Corporation, is an American brand of automobiles, minivans, and sport utility vehicles manufactured by Chrysler Group LLC, based in Auburn Hills, Michigan. Dodge vehicles presently include the lower-priced badge variants of Chrysler-badged vehicles as well as performance cars, though for much of its existence Dodge was Chrysler's mid-priced brand above Plymouth.Founded as the Dodge Brothers Company by brothers Horace Elgin Dodge and John Francis Dodge in 1900, Dodge was originally a supplier of parts and assemblies for Detroit-based automakers and began building complete automobiles in 1915, predating the founding of Chrysler Corporation. The Dodge brothers died suddenly in 1920 and the company was sold to Dillon, Read & Co. in 1925 before being sold to Chrysler in 1928. Dodge vehicles mainly consisted of trucks and full-sized passenger cars through the 1970s, though it did make some inroads into the compact car market during this time. The 1973 oil crisis and its subsequent impact on the American automobile industry led Chrysler to develop the K platform of compact to midsize cars for the 1981 model year. The K platform and its derivatives are credited with reviving Chrysler's business in the 1980s; one such derivative became the Dodge Caravan.",
+                "reviewsBrand":[
+                    "The 2014 Charger is a great car. I drove the v6 version first as a rental for about 2000 miles. It got great gas mileage and the v6 was more than enough power. ",
+                    "I bought a 2014 R/T Charger with the blacktop package and I LOVE it! Cruising down a road at 50mph my car gets 32.4mpg since it goes into \"eco mode\" and shuts off 4 of the cylinders. ",
+                    "If you are tall this is the car to have. It is supposed to be the best car for tall people. Very spacious. The one caution is do not get a sunroof in it. It takes the ceiling down about 4 or 5 inches and my hair actually touches the ceiling. Other than that a tremendous car."
+                ],
+                "ratingsBrand":[
+                    4,
+                    5,
+                    4
+                ]
+            }
+        ]
+
+}

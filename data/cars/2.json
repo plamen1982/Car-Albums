@@ -1,0 +1,57 @@
+
+{
+    "id":2,
+    "nameBrand":"BMW",
+    "country":"Germany",
+    "image":"/img/brands/BMW.jpg",
+    "imageCountry":"/img/brands/Germany.jpg",
+
+    "models":
+        [{
+            "brandId":2,
+            "id":1,
+            "nameModel":"328i",
+            "imageCar":"/img/hereIn2014/BMW_2014_E.jpg",
+            "imageInside":"/img/hereIn2014/BMW_2014_I.jpg",
+            "imageOutside":"/img/hereIn2014/BMW_2014_E.jpg",
+            "yearModel":2014,
+            "priceModel":41450,
+            "sellsModel":1234,
+            "statusModel":1,
+            "descriptionModel":"BMW is headquartered in Munich, Bavaria. It also owns and produces Mini cars, and is the parent company of Rolls-Royce Motor Cars. BMW produces motorcycles under BMW Motorrad. In 2012, the BMW Group produced 1,845,186 automobiles and 117,109 motorcycles across all of its brands. BMW is part of the \"German Big 3\" luxury automakers, along with Audi and Mercedes-Benz, which are the three best-selling luxury automakers in the world.",
+            "reviewsBrand":[
+                "I had grave reservations about the 2014 BMW 328i Xdrive Wagon because it was only offered with a 240 hp 4 cylinder engine. ",
+                "Bought the imported 328i GT new in Malaysia. After 4 months with less than 5000km, started to have problem with the car trunk which will either not open or open and lifted halfway.",
+                "I have a 2014 328i. I think it is very comfortable. A couple of the cool features that I like include a screen that shows how much air is in each tire and the driving analyzer (in eco pro mode) that shows you how your driving affects your fuel consumption (no surprise, but kinda cool), The sport mode gauges are kinda cool too."
+            ],
+            "ratingsBrand":[
+                4,
+                5,
+                4
+            ]
+        },
+            {
+                "brandId":2,
+                "id":2,
+                "nameModel":"M3",
+                "imageCar":"/img/backIn1998/BMW_1998_E.jpg",
+                "imageInside":"/img/backIn1998/BMW_1998_I.jpg",
+                "imageOutside":"/img/backIn1998/BMW_1998_E.jpg",
+                "yearModel":1998,
+                "priceModel":41450,
+                "sellsModel":1234,
+                "statusModel":1,
+                "descriptionModel":"BMW is headquartered in Munich, Bavaria. It also owns and produces Mini cars, and is the parent company of Rolls-Royce Motor Cars. BMW produces motorcycles under BMW Motorrad. In 2012, the BMW Group produced 1,845,186 automobiles and 117,109 motorcycles across all of its brands. BMW is part of the \"German Big 3\" luxury automakers, along with Audi and Mercedes-Benz, which are the three best-selling luxury automakers in the world.",
+                "reviewsBrand":[
+                    "I had grave reservations about the 2014 BMW 328i Xdrive Wagon because it was only offered with a 240 hp 4 cylinder engine. ",
+                    "Bought the imported 328i GT new in Malaysia. After 4 months with less than 5000km, started to have problem with the car trunk which will either not open or open and lifted halfway.",
+                    "I have a 2014 328i. I think it is very comfortable. A couple of the cool features that I like include a screen that shows how much air is in each tire and the driving analyzer (in eco pro mode) that shows you how your driving affects your fuel consumption (no surprise, but kinda cool), The sport mode gauges are kinda cool too."
+                ],
+                "ratingsBrand":[
+                    4,
+                    5,
+                    4
+                ]
+            }
+        ]
+}

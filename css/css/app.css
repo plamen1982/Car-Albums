@@ -1,0 +1,68 @@
+/* app css stylesheet */
+
+
+/* ---------------------------------------------------NAVS----------------------------------------------------------- */
+.navbar-brand {
+    color: #ffffff;
+}
+.nav-tabs {
+    border-bottom:0 ;
+}
+.navbar {
+    background:#2fa4e7;
+}
+.tab-content-custom {
+    margin: 1em;
+}
+
+
+/* ---------------------------------------------------IMAGES----------------------------------------------------------- */
+.image-brand-container img {
+
+    width: 90%;
+    height: 90%;
+    margin:1em;
+
+
+}
+.image-container img {
+
+    width: 100%;
+    height: 100%;
+   
+}
+
+/* ---------------------------------------------------HTML ELEMENTS----------------------------------------------------------- */
+span {
+    font-weight: bold;
+}
+
+input {
+    margin: 10px;
+}
+
+li{
+    list-style-type: none;
+    height: 20px;
+}
+/* ---------------------------------------------------NG-CLASS----------------------------------------------------------- */
+.grey-background {
+    background-color: #eeeeee;
+    color: #317eac;
+}
+/* ---------------------------------------------------FORMS----------------------------------------------------------- */
+
+input.ng-invalid.ng-dirty.form-validation, textarea.ng-invalid.ng-dirty.form-validation {
+    background-color: pink;
+}
+input.ng-valid.ng-dirty.form-validation, textarea.ng-valid.ng-dirty.form-validation {
+    background-color: greenyellow;
+}
+/* ---------------------------------------------------COLORS----------------------------------------------------------- */
+.jumbotron {
+    background-color: transparent !important
+}
+
+.btn-info {
+    margin-left: 0.5em;
+}
