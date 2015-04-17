@@ -1,0 +1,447 @@
+{
+    "id":1,
+    "nameBrand":"Audi",
+    "country":"Germany",
+    "image":"/img/brands/Audi.jpg",
+    "imageCountry":"/img/brands/Germany.jpg",
+
+
+    "models":
+    [{
+        "brandId":1,
+        "id":1,
+        "nameModel":"A6",
+        "imageCar":"/img/hereIn2014/Audi_2014_E.jpg",
+        "imageInside":"/img/hereIn2014/Audi_2014_I.jpg",
+        "imageOutside":"/img/hereIn2014/Audi_2014_E.jpg",
+        "yearModel":2014,
+        "priceModel": 57500,
+        "sellsModel":1234,
+        "statusModel":1,
+        "descriptionModel":"In business for more than 100 years, Audi is an automaker that builds luxury cars and SUVs. The company was started in Germany and has remained Deutschland-based to this day. Audi has been a majority owned (99.55%) subsidiary of Volkswagen Group since 1966, following a phased purchase of Audi AG's predecessor, Auto Union, from Daimler-Benz.[10] Volkswagen relaunched the Audi brand with the 1965 introduction of the Audi F103 series.",
+        "reviewsBrand":[
+            "I have had the Audi A6 Prestige model for about a year and almost 10,000 miles. I love it! ",
+            "Car is fast, very fun, comfy seats, cool layout. Now the bad: ITS TOO BOUNCY! TOO STIFF!",
+            "If you want the best overall compromise when it comes to acceleration, handling, ride, quantity and price then buy the Audi A 6 3.0T Quattro."
+        ],
+        "ratingsBrand":[
+            4,
+            5,
+            4
+        ]
+    },
+        {
+            "brandId":1,
+            "id":2,
+            "nameModel":"80",
+            "imageCar":"/img/backIn1998/Audi_1998_E.jpg",
+            "imageInside":"/img/backIn1998/Audi_1998_I.jpg",
+            "imageOutside":"/img/backIn1998/Audi_1998_E.jpg",
+            "yearModel":1998,
+            "priceModel": 57500,
+            "sellsModel":1234,
+            "statusModel":1,
+            "descriptionModel":"In business for more than 100 years, Audi is an automaker that builds luxury cars and SUVs. The company was started in Germany and has remained Deutschland-based to this day. Audi has been a majority owned (99.55%) subsidiary of Volkswagen Group since 1966, following a phased purchase of Audi AG's predecessor, Auto Union, from Daimler-Benz.[10] Volkswagen relaunched the Audi brand with the 1965 introduction of the Audi F103 series.",
+            "reviewsBrand":[
+                "I have had the Audi A6 Prestige model for about a year and almost 10,000 miles. I love it! ",
+                "Car is fast, very fun, comfy seats, cool layout. Now the bad: ITS TOO BOUNCY! TOO STIFF!",
+                "If you want the best overall compromise when it comes to acceleration, handling, ride, quantity and price then buy the Audi A 6 3.0T Quattro."
+            ],
+            "ratingsBrand":[
+                4,
+                5,
+                4
+            ]
+        }
+
+    ]
+}
+{
+    "id":2,
+    "nameBrand":"BMW",
+    "country":"Germany",
+    "image":"/img/brands/BMW.jpg",
+    "imageCountry":"/img/brands/Germany.jpg",
+
+    "models":
+        [{
+            "brandId":2,
+            "id":1,
+            "nameModel":"328i",
+            "imageCar":"/img/hereIn2014/BMW_2014_E.jpg",
+            "imageInside":"/img/hereIn2014/BMW_2014_I.jpg",
+            "imageOutside":"/img/hereIn2014/BMW_2014_E.jpg",
+            "yearModel":2014,
+            "priceModel":41450,
+            "sellsModel":1234,
+            "statusModel":1,
+            "descriptionModel":"BMW is headquartered in Munich, Bavaria. It also owns and produces Mini cars, and is the parent company of Rolls-Royce Motor Cars. BMW produces motorcycles under BMW Motorrad. In 2012, the BMW Group produced 1,845,186 automobiles and 117,109 motorcycles across all of its brands. BMW is part of the \"German Big 3\" luxury automakers, along with Audi and Mercedes-Benz, which are the three best-selling luxury automakers in the world.",
+            "reviewsBrand":[
+                "I had grave reservations about the 2014 BMW 328i Xdrive Wagon because it was only offered with a 240 hp 4 cylinder engine. ",
+                "Bought the imported 328i GT new in Malaysia. After 4 months with less than 5000km, started to have problem with the car trunk which will either not open or open and lifted halfway.",
+                "I have a 2014 328i. I think it is very comfortable. A couple of the cool features that I like include a screen that shows how much air is in each tire and the driving analyzer (in eco pro mode) that shows you how your driving affects your fuel consumption (no surprise, but kinda cool), The sport mode gauges are kinda cool too."
+            ],
+            "ratingsBrand":[
+                4,
+                5,
+                4
+            ]
+        },
+            {
+                "brandId":2,
+                "id":2,
+                "nameModel":"M3",
+                "imageCar":"/img/backIn1998/BMW_1998_E.jpg",
+                "imageInside":"/img/backIn1998/BMW_1998_I.jpg",
+                "imageOutside":"/img/backIn1998/BMW_1998_E.jpg",
+                "yearModel":1998,
+                "priceModel":41450,
+                "sellsModel":1234,
+                "statusModel":1,
+                "descriptionModel":"BMW is headquartered in Munich, Bavaria. It also owns and produces Mini cars, and is the parent company of Rolls-Royce Motor Cars. BMW produces motorcycles under BMW Motorrad. In 2012, the BMW Group produced 1,845,186 automobiles and 117,109 motorcycles across all of its brands. BMW is part of the \"German Big 3\" luxury automakers, along with Audi and Mercedes-Benz, which are the three best-selling luxury automakers in the world.",
+                "reviewsBrand":[
+                    "I had grave reservations about the 2014 BMW 328i Xdrive Wagon because it was only offered with a 240 hp 4 cylinder engine. ",
+                    "Bought the imported 328i GT new in Malaysia. After 4 months with less than 5000km, started to have problem with the car trunk which will either not open or open and lifted halfway.",
+                    "I have a 2014 328i. I think it is very comfortable. A couple of the cool features that I like include a screen that shows how much air is in each tire and the driving analyzer (in eco pro mode) that shows you how your driving affects your fuel consumption (no surprise, but kinda cool), The sport mode gauges are kinda cool too."
+                ],
+                "ratingsBrand":[
+                    4,
+                    5,
+                    4
+                ]
+            }
+        ]
+}
+{
+    "id":3,
+    "nameBrand":"Cadillac",
+    "country":"USA",
+    "image":"/img/brands/Cadillac.jpg",
+    "imageCountry":"/img/brands/USA.jpg",
+
+    "models":
+        [{
+            "brandId":3,
+            "id":1,
+            "nameModel":"CTS-V",
+            "imageCar":"/img/hereIn2014/Cadillac_2014_E.jpg",
+            "imageInside":"/img/hereIn2014/Cadillac_2014_I.jpg",
+            "imageOutside":"/img/hereIn2014/Cadillac_2014_E.jpg",
+            "yearModel":2014,
+            "priceModel":63600,
+            "sellsModel":1234,
+            "statusModel":1,
+            "descriptionModel":" Cadillac Motor Car Division, is a division of U.S.-based General Motors Company (GM) that markets luxury vehicles worldwide. Cadillac's primary markets are the United States, Canada, and China, but Cadillac-branded vehicles are distributed in 34 additional markets worldwide.[2] In 2012, Cadillac's U.S. sales were 149,782 vehicles.Cadillac is currently the second oldest American automobile brand following fellow GM marque Buick and is among the oldest automobile brands in the world. Cadillac was founded from the Henry Ford Company in 1902 by Henry Leland,[4] a master mechanic and entrepreneur, who named the company after Antoine Laumet de La Mothe, sieur de Cadillac, who founded Detroit, Michigan. The Cadillac crest is based on his coat of arms.",
+            "reviewsBrand":[
+                "2014 cadillac CTS premium coupe from Bud Davis cadillac in memphis tenn. this is my 6th cadillac and 2nd CTS ive owned. this 2014 has so many features and handles so well. a big thank you to Cadillac! ",
+                "This is the first non-truck American vehicle I've owned in many years. I have to say that it's almost unbelievable that GM created such a car (CTS-V Wagon) but I'm so happy they did. My other car is a Miata and this car is as much fun to drive as it is and definitely a much better long-distance cruiser.",
+                "Pinkerton GMC, Lynchburg, Va.is the most accommodating dealer we have ever bought from. Our salesperson was Melvin Harvey - Perfect Transaction! I highly recommend the CTS and Pinkerton."
+            ],
+            "ratingsBrand":[
+                4,
+                5,
+                4
+            ]
+        },
+            {
+                "brandId":3,
+                "id":2,
+                "nameModel":"CTS-V",
+                "imageCar":"/img/backIn1998/Cadillac_1998_E.jpg",
+                "imageInside":"/img/backIn1998/Cadillac_1998_I.jpg",
+                "imageOutside":"/img/backIn1998/Cadillac_1998_E.jpg",
+                "yearModel":1998,
+                "priceModel":63600,
+                "sellsModel":1234,
+                "statusModel":1,
+                "descriptionModel":" Cadillac Motor Car Division, is a division of U.S.-based General Motors Company (GM) that markets luxury vehicles worldwide. Cadillac's primary markets are the United States, Canada, and China, but Cadillac-branded vehicles are distributed in 34 additional markets worldwide.[2] In 2012, Cadillac's U.S. sales were 149,782 vehicles.Cadillac is currently the second oldest American automobile brand following fellow GM marque Buick and is among the oldest automobile brands in the world. Cadillac was founded from the Henry Ford Company in 1902 by Henry Leland,[4] a master mechanic and entrepreneur, who named the company after Antoine Laumet de La Mothe, sieur de Cadillac, who founded Detroit, Michigan. The Cadillac crest is based on his coat of arms.",
+                "reviewsBrand":[
+                    "2014 cadillac CTS premium coupe from Bud Davis cadillac in memphis tenn. this is my 6th cadillac and 2nd CTS ive owned. this 2014 has so many features and handles so well. a big thank you to Cadillac! ",
+                    "This is the first non-truck American vehicle I've owned in many years. I have to say that it's almost unbelievable that GM created such a car (CTS-V Wagon) but I'm so happy they did. My other car is a Miata and this car is as much fun to drive as it is and definitely a much better long-distance cruiser.",
+                    "Pinkerton GMC, Lynchburg, Va.is the most accommodating dealer we have ever bought from. Our salesperson was Melvin Harvey - Perfect Transaction! I highly recommend the CTS and Pinkerton."
+                ],
+                "ratingsBrand":[
+                    4,
+                    5,
+                    4
+                ]
+            }
+        ]
+}
+{
+    "id":4,
+    "nameBrand":"Dodge",
+    "country":"USA",
+    "image":"/img/brands/Dodge.jpg",
+    "imageCountry":"/img/brands/USA.jpg",
+
+    "models":[
+        {   "brandId":4,
+            "id":1,
+            "nameModel":"Charger",
+            "imageCar":"/img/hereIn2014/Dodge_2014_E.jpg",
+            "imageInside":"/img/hereIn2014/Dodge_2014_I.jpg",
+            "imageOutside":"/img/hereIn2014/Dodge_2014_E.jpg",
+            "yearModel":2014,
+            "priceModel":46385,
+            "sellsModel":1234,
+            "statusModel":1,
+            "descriptionModel":"After the founding of the Dodge Brothers Company by Horace and John Dodge in 1900, the Detroit-based company quickly found work producing precision engine and chassis components for the city’s burgeoning number of automobile firms. Chief among these customers were the established Olds Motor Vehicle Company and the then-new Ford Motor Company. Dodge, formally the Dodge Division of Chrysler Corporation, is an American brand of automobiles, minivans, and sport utility vehicles manufactured by Chrysler Group LLC, based in Auburn Hills, Michigan. Dodge vehicles presently include the lower-priced badge variants of Chrysler-badged vehicles as well as performance cars, though for much of its existence Dodge was Chrysler's mid-priced brand above Plymouth.Founded as the Dodge Brothers Company by brothers Horace Elgin Dodge and John Francis Dodge in 1900, Dodge was originally a supplier of parts and assemblies for Detroit-based automakers and began building complete automobiles in 1915, predating the founding of Chrysler Corporation. The Dodge brothers died suddenly in 1920 and the company was sold to Dillon, Read & Co. in 1925 before being sold to Chrysler in 1928. Dodge vehicles mainly consisted of trucks and full-sized passenger cars through the 1970s, though it did make some inroads into the compact car market during this time. The 1973 oil crisis and its subsequent impact on the American automobile industry led Chrysler to develop the K platform of compact to midsize cars for the 1981 model year. The K platform and its derivatives are credited with reviving Chrysler's business in the 1980s; one such derivative became the Dodge Caravan.",
+            "reviewsBrand":[
+                "The 2014 Charger is a great car. I drove the v6 version first as a rental for about 2000 miles. It got great gas mileage and the v6 was more than enough power. ",
+                "I bought a 2014 R/T Charger with the blacktop package and I LOVE it! Cruising down a road at 50mph my car gets 32.4mpg since it goes into \"eco mode\" and shuts off 4 of the cylinders. ",
+                "If you are tall this is the car to have. It is supposed to be the best car for tall people. Very spacious. The one caution is do not get a sunroof in it. It takes the ceiling down about 4 or 5 inches and my hair actually touches the ceiling. Other than that a tremendous car."
+            ],
+            "ratingsBrand":[
+                4,
+                5,
+                4
+            ]
+        },
+            {
+                "brandId":4,
+                "id":2,
+                "nameModel":"Neon",
+                "imageCar":"http://upload.wikimedia.org/wikipedia/commons/d/d6/Chrysler_Neon_2001_by_a_Norwegian_fjord.JPG",
+                "imageInside":"/img/backIn1998/Dodge_1998_I.jpg",
+                "imageOutside":"http://upload.wikimedia.org/wikipedia/commons/d/d6/Chrysler_Neon_2001_by_a_Norwegian_fjord.JPG",
+                "yearModel":1998,
+                "priceModel":46385,
+                "sellsModel":1234,
+                "statusModel":1,
+                "descriptionModel":"Dodge, formally the Dodge Division of Chrysler Corporation, is an American brand of automobiles, minivans, and sport utility vehicles manufactured by Chrysler Group LLC, based in Auburn Hills, Michigan. Dodge vehicles presently include the lower-priced badge variants of Chrysler-badged vehicles as well as performance cars, though for much of its existence Dodge was Chrysler's mid-priced brand above Plymouth.Founded as the Dodge Brothers Company by brothers Horace Elgin Dodge and John Francis Dodge in 1900, Dodge was originally a supplier of parts and assemblies for Detroit-based automakers and began building complete automobiles in 1915, predating the founding of Chrysler Corporation. The Dodge brothers died suddenly in 1920 and the company was sold to Dillon, Read & Co. in 1925 before being sold to Chrysler in 1928. Dodge vehicles mainly consisted of trucks and full-sized passenger cars through the 1970s, though it did make some inroads into the compact car market during this time. The 1973 oil crisis and its subsequent impact on the American automobile industry led Chrysler to develop the K platform of compact to midsize cars for the 1981 model year. The K platform and its derivatives are credited with reviving Chrysler's business in the 1980s; one such derivative became the Dodge Caravan.",
+                "reviewsBrand":[
+                    "The 2014 Charger is a great car. I drove the v6 version first as a rental for about 2000 miles. It got great gas mileage and the v6 was more than enough power. ",
+                    "I bought a 2014 R/T Charger with the blacktop package and I LOVE it! Cruising down a road at 50mph my car gets 32.4mpg since it goes into \"eco mode\" and shuts off 4 of the cylinders. ",
+                    "If you are tall this is the car to have. It is supposed to be the best car for tall people. Very spacious. The one caution is do not get a sunroof in it. It takes the ceiling down about 4 or 5 inches and my hair actually touches the ceiling. Other than that a tremendous car."
+                ],
+                "ratingsBrand":[
+                    4,
+                    5,
+                    4
+                ]
+            }
+        ]
+}
+{
+    "id":5,
+    "nameBrand":"Ferrari",
+    "country":"Italy",
+    "image":"/img/brands/Ferrari.jpg",
+    "imageCountry":"/img/brands/Italy.jpg",
+
+    "models":
+        [{
+            "brandId":5,
+            "id":1,
+            "nameModel":"Enzo",
+            "imageCar":"/img/hereIn2014/Ferrari_2014_E.jpg",
+            "imageInside":"/img/hereIn2014/Ferrari_2014_I.jpg",
+            "imageOutside":"/img/hereIn2014/Ferrari_2014_E.jpg",
+            "yearModel":2014,
+            "priceModel":125000,
+            "sellsModel":1234,
+            "statusModel":1,
+            "descriptionModel":"Ferrari S.p.A. is an Italian luxury sports car manufacturer based in Maranello. Founded by Enzo Ferrari in 1929, as Scuderia Ferrari, the company sponsored drivers and manufactured race cars before moving into production of street-legal vehicles as Ferrari S.p.A. in 1947. Fiat acquired 50% of Ferrari in 1969 and expanded its stake to 85% in 2008.[4] Fiat currently owns 90% of Ferrari.[5] Throughout its history, the company has been noted for its continued participation in racing, especially in Formula One, where it has had great success. Ferrari road cars are generally seen as a symbol of speed, luxury and wealth.",
+            "reviewsBrand":[
+                "Such an amazing car, it looks and handles like a race car, the ride may not be the best but who cares? It's a Ferrari not a Rolls Royce. ",
+                "in dirt it bottomed out a lot and the fuel efficiency is bad. the clutch grabs not quite as fast as the 599 but will get you some. I cant fit anything in the trunk. but it will rip apart if you hit anythin"
+            ],
+            "ratingsBrand":[
+                4,
+                5,
+                4
+            ]
+        },
+            {
+                "brandId":5,
+                "id":2,
+                "nameModel":"Enzo",
+                "imageCar":"/img/backIn1998/Ferrari_1998_E.jpg",
+                "imageInside":"/img/backIn1998/Ferrari_1998_I.jpg",
+                "imageOutside":"/img/backIn1998/Ferrari_1998_E.jpg",
+                "yearModel":1998,
+                "priceModel":125000,
+                "sellsModel":1234,
+                "statusModel":1,
+                "descriptionModel":"Ferrari S.p.A. is an Italian luxury sports car manufacturer based in Maranello. Founded by Enzo Ferrari in 1929, as Scuderia Ferrari, the company sponsored drivers and manufactured race cars before moving into production of street-legal vehicles as Ferrari S.p.A. in 1947. Fiat acquired 50% of Ferrari in 1969 and expanded its stake to 85% in 2008.[4] Fiat currently owns 90% of Ferrari.[5] Throughout its history, the company has been noted for its continued participation in racing, especially in Formula One, where it has had great success. Ferrari road cars are generally seen as a symbol of speed, luxury and wealth.",
+                "reviewsBrand":[
+                    "Such an amazing car, it looks and handles like a race car, the ride may not be the best but who cares? It's a Ferrari not a Rolls Royce. ",
+                    "in dirt it bottomed out a lot and the fuel efficiency is bad. the clutch grabs not quite as fast as the 599 but will get you some. I cant fit anything in the trunk. but it will rip apart if you hit anythin"
+                ],
+                "ratingsBrand":[
+                    4,
+                    5,
+                    4
+                ]
+            }
+        ]
+
+}
+{
+    "id":6,
+    "nameBrand":"Porsche",
+    "country":"Germany",
+    "image":"/img/brands/Porsche.jpg",
+    "imageCountry":"/img/brands/Germany.jpg",
+
+    "models":
+        [{
+            "brandId":6,
+            "id":1,
+            "nameModel":"911",
+            "imageCar":"/img/hereIn2014/Porsche_2014_E.jpg",
+            "imageInside":"/img/hereIn2014/Porsche_2014_I.jpg",
+            "imageOutside":"/img/hereIn2014/Porsche_2014_E.jpg",
+            "yearModel":1998,
+            "priceModel":193900,
+            "sellsModel":1234,
+            "statusModel":1,
+            "descriptionModel":"Porsche Automobil Holding SE, usually shortened to Porsche (German pronunciation: [ˈpɔʁʃə] ( listen)[5]), is a German holding company with investments in the automotive industry. Porsche SE is headquartered in Zuffenhausen, a city district of Stuttgart, Baden-Württemberg and is owned by the Porsche and Piëch families. The company was founded in Stuttgart as Dr. Ing. h.c. F. Porsche GmbH in 1931 by Ferdinand Porsche (1875–1951)[6] and his son-in-law Anton Piëch (1894–1952).",
+            "reviewsBrand":[
+                "3 weeks into ownership the experience gets better and better. The S version offers a little more HP, with the sport buttons off the car is very refined, with them on it is a very different aggressive car.",
+                "This is the 9th Porsche I've had since my 1987 911 Targa. Loved everyone; all 911's (C2, C4 and C4S) except the 2011 Panamera 4 - just just traded in. Porsche makes great cars. ",
+                "The new 991 is without question the best Carrera ever. I have owned a 996 and 997 and with each there were certain things that in my opinion fell below the expectations of what one would expect of a $100K, world class sports car. The new 991 over comes all of my previous disapointments. "
+            ],
+            "ratingsBrand":[
+                4,
+                5,
+                4
+            ]
+        },
+            {
+            "brandId":6,
+            "id":2,
+            "nameModel":"911",
+            "imageCar":"/img/backIn1998/Porsche_1998_E.jpg",
+            "imageInside":"/img/backIn1998/Porsche_1998_I.jpg",
+            "imageOutside":"/img/backIn1998/Porsche_1998_E.jpg",
+            "yearModel":1998,
+            "priceModel":193900,
+            "sellsModel":1234,
+            "statusModel":1,
+            "descriptionModel":"Porsche Automobil Holding SE, usually shortened to Porsche (German pronunciation: [ˈpɔʁʃə] ( listen)[5]), is a German holding company with investments in the automotive industry. Porsche SE is headquartered in Zuffenhausen, a city district of Stuttgart, Baden-Württemberg and is owned by the Porsche and Piëch families. The company was founded in Stuttgart as Dr. Ing. h.c. F. Porsche GmbH in 1931 by Ferdinand Porsche (1875–1951)[6] and his son-in-law Anton Piëch (1894–1952).",
+            "reviewsBrand":[
+                "3 weeks into ownership the experience gets better and better. The S version offers a little more HP, with the sport buttons off the car is very refined, with them on it is a very different aggressive car.",
+                "This is the 9th Porsche I've had since my 1987 911 Targa. Loved everyone; all 911's (C2, C4 and C4S) except the 2011 Panamera 4 - just just traded in. Porsche makes great cars. ",
+                "The new 991 is without question the best Carrera ever. I have owned a 996 and 997 and with each there were certain things that in my opinion fell below the expectations of what one would expect of a $100K, world class sports car. The new 991 over comes all of my previous disapointments. "
+            ],
+            "ratingsBrand":[
+                4,
+                5,
+                4
+            ]
+        }]
+
+}
+{
+    "id":7,
+    "nameBrand":"Bentley",
+    "country":"England",
+    "image":"/img/brands/Bentley.jpg",
+    "imageCountry":"/img/brands/England.jpg",
+
+    "models":
+        [{
+            "brandId":7,
+            "id":1,
+            "nameModel":"Continental",
+            "imageCar":"/img/hereIn2014/Bentley_2014_E.jpg",
+            "imageInside":"/img/hereIn2014/Bentley_2014_I.jpg",
+            "imageOutside":"/img/hereIn2014/Bentley_2014_E.jpg",
+            "yearModel":2014,
+            "priceModel":189776,
+            "sellsModel":1234,
+            "statusModel":1,
+            "descriptionModel":"Bentley Motors Limited (/ˈbɛntli/) is a British luxury automaker, and a wholly owned subsidiary of the German Volkswagen AG.[11] Its principal activity is the design, engineering, manufacture and distribution of luxury automobiles sold under the Bentley marque. Based in Crewe, England, Bentley Motors Limited was founded by W. O. Bentley on 18 January 1919 in Cricklewood near London and was acquired by Rolls-Royce in 1931.",
+            "reviewsBrand":[
+                "this car is great. I have nver driven a big car, with sports car acceleration, and a top speed of this beautiful car. ",
+                "for the money i spent on this car, i would have rather went with a 1998 used camry. I've spent over 100,000.00 on repairs for this piece of garbage.",
+                "this car is totally worth the money i paid for it... its so comfortable but at the same time when you put your foot down you dissappear"
+            ],
+            "ratingsBrand":[
+                4,
+                5,
+                4
+            ]
+        },{
+
+                "brandId":7,
+                "id":2,
+                "imageCar":"/img/backIn1998/Bentley_1998_E.jpg",
+                "imageInside":"/img/backIn1998/Bentley_1998_I.jpg",
+                "imageOutside":"/img/backIn1998/Bentley_1998_E.jpg",
+                "yearModel":1998,
+                "priceModel":189776,
+                "sellsModel":1234,
+                "statusModel":1,
+                "descriptionModel":"Bentley Motors Limited (/ˈbɛntli/) is a British luxury automaker, and a wholly owned subsidiary of the German Volkswagen AG.[11] Its principal activity is the design, engineering, manufacture and distribution of luxury automobiles sold under the Bentley marque. Based in Crewe, England, Bentley Motors Limited was founded by W. O. Bentley on 18 January 1919 in Cricklewood near London and was acquired by Rolls-Royce in 1931.",
+                "reviewsBrand":[
+                    "this car is great. I have nver driven a big car, with sports car acceleration, and a top speed of this beautiful car. ",
+                    "for the money i spent on this car, i would have rather went with a 1998 used camry. I've spent over 100,000.00 on repairs for this piece of garbage.",
+                    "this car is totally worth the money i paid for it... its so comfortable but at the same time when you put your foot down you dissappear"
+                ],
+                "ratingsBrand":[
+                    4,
+                    5,
+                    4
+                ]
+            }]
+
+}
+{
+    "id":8,
+    "nameBrand":"Ford",
+    "country":"USA",
+    "image":"/img/brands/Ford.jpg",
+    "imageCountry":"/img/brands/USA.jpg",
+
+    "models":
+        [{
+            "brandId":8,
+            "id":1,
+            "nameModel":"Fusion",
+            "imageCar":"/img/hereIn2014/Ford_2014_E.jpg",
+            "imageInside":"/img/hereIn2014/Ford_2014_I.jpg",
+            "imageOutside":"/img/hereIn2014/Ford_2014_E.jpg",
+            "yearModel":2014,
+            "priceModel":32600,
+            "sellsModel":1234,
+            "statusModel":1,
+            "descriptionModel":"The Ford Motor Company (also known as simply Ford) is an American multinational automaker headquartered in Dearborn, Michigan, a suburb of Detroit. It was founded by Henry Ford and incorporated on June 16, 1903. The company sells automobiles and commercial vehicles under the Ford brand and most luxury cars under the Lincoln brand. Ford also owns Brazilian SUV manufacturer, Troller, and Australian performance car manufacturer FPV. In the past it has also produced tractors and automotive components.",
+            "reviewsBrand":[
+                "I find the interior design lacking badly. Trying to reach the pull down on the steering wheel is next to impossible. No power adjustment for the passenger seat is not a positive as is the missing rear camera I thought would be on all vehicles by now. ",
+                "Purchased 2014 Fusion SE in June. Have been happy with vehicle- stylish looks, quiet ride, excellent fuel economy (2.5L I4).",
+                "I bought my Fusion S on March 18th and it is now August 3rd. I have put over 9,500 miles on it with an average MPG of 35.4 MPG over that time"
+            ],
+            "ratingsBrand":[
+                4,
+                5,
+                4
+            ]
+        },
+            {
+                "brandId":8,
+                "id":2,
+                "nameModel":"Fusion",
+                "imageCar":"/img/backIn1998/Ford_1998_E.jpg",
+                "imageInside":"/img/backIn1998/Ford_1998_I.jpg",
+                "imageOutside":"/img/backIn1998/Ford_1998_E.jpg",
+                "yearModel":1998,
+                "priceModel":32600,
+                "sellsModel":1234,
+                "statusModel":1,
+                "descriptionModel":"The Ford Motor Company (also known as simply Ford) is an American multinational automaker headquartered in Dearborn, Michigan, a suburb of Detroit. It was founded by Henry Ford and incorporated on June 16, 1903. The company sells automobiles and commercial vehicles under the Ford brand and most luxury cars under the Lincoln brand. Ford also owns Brazilian SUV manufacturer, Troller, and Australian performance car manufacturer FPV. In the past it has also produced tractors and automotive components.",
+                "reviewsBrand":[
+                    "I find the interior design lacking badly. Trying to reach the pull down on the steering wheel is next to impossible. No power adjustment for the passenger seat is not a positive as is the missing rear camera I thought would be on all vehicles by now. ",
+                    "Purchased 2014 Fusion SE in June. Have been happy with vehicle- stylish looks, quiet ride, excellent fuel economy (2.5L I4).",
+                    "I bought my Fusion S on March 18th and it is now August 3rd. I have put over 9,500 miles on it with an average MPG of 35.4 MPG over that time"
+                ],
+                "ratingsBrand":[
+                    4,
+                    5,
+                    4
+                ]
+            }]
+
+}
